@@ -51,7 +51,7 @@
               ]
             }
           ]
-        },
+        }
       ],
       "user_website": "www.signed.pt",
     },
@@ -106,7 +106,7 @@
               ]
             }
           ]
-        },
+        }
       ],
       "user_website": "www.signed.pt",
     },
@@ -161,13 +161,13 @@
               ]
             }
           ]
-        },
+        }
       ],
       "user_website": "www.signed.pt",
     },
     {
-      "id": 5, 
-      "card_name": "Cartão Signed 5",
+      "id": 4, 
+      "card_name": "Cartão Signed 4",
       "card_tags": [
         "Institucional"
       ],
@@ -216,65 +216,10 @@
               ]
             }
           ]
-        },
+        }
       ],
       "user_website": "www.signed.pt",
-    },
-    {
-      "id": 1, 
-      "card_name": "Cartão Signed 1",
-      "card_tags": [
-        "Institucional"
-      ],
-      "card_template": "#e2e8f0, #fff",
-      "user_name": "Saullo",
-      "user_lastname": "Bueno de Souza",
-      "user_offices": [
-        {
-          "title": "Desenvolvimento",
-          "list": [
-            {
-              "item": "Frontend"
-            }
-          ]
-        }
-      ],
-      "user_emails": [
-        {
-          "title": "Saullo",
-          "list": [
-            {
-              "item": "saullo.souza@signed.pt"
-            }
-          ]
-        }
-      ],
-      "user_phones": [
-        {
-          "title": "Principal",
-          "list": [
-            {
-              "item": "+351 253 983 256"
-            }
-          ]
-        }
-      ],
-      "user_cellphones": [
-        {
-          "title": "Signed",
-          "list": [
-            {
-              "item": "+351 932 747 180",
-              "options": [
-                "call",
-                "sms"
-              ]
-            }
-          ]
-        },
-      ],
-      "user_website": "www.signed.pt",
-    },
+    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
