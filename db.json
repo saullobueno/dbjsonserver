@@ -9,50 +9,6 @@
       "card_template": "#e2e8f0, #fff",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
-      "user_offices": [
-        {
-          "title": "Desenvolvimento",
-          "list": [
-            {
-              "item": "Frontend"
-            }
-          ]
-        }
-      ],
-      "user_emails": [
-        {
-          "title": "Saullo",
-          "list": [
-            {
-              "item": "saullo.souza@signed.pt"
-            }
-          ]
-        }
-      ],
-      "user_phones": [
-        {
-          "title": "Principal",
-          "list": [
-            {
-              "item": "+351 253 983 256"
-            }
-          ]
-        }
-      ],
-      "user_cellphones": [
-        {
-          "title": "Signed",
-          "list": [
-            {
-              "item": "+351 932 747 180",
-              "options": [
-                "call",
-                "sms"
-              ]
-            }
-          ]
-        }
-      ],
       "user_website": "www.signed.pt",
     },
     {
@@ -64,50 +20,6 @@
       "card_template": "#e2e8f0, #fff",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
-      "user_offices": [
-        {
-          "title": "Desenvolvimento",
-          "list": [
-            {
-              "item": "Frontend"
-            }
-          ]
-        }
-      ],
-      "user_emails": [
-        {
-          "title": "Saullo",
-          "list": [
-            {
-              "item": "saullo.souza@signed.pt"
-            }
-          ]
-        }
-      ],
-      "user_phones": [
-        {
-          "title": "Principal",
-          "list": [
-            {
-              "item": "+351 253 983 256"
-            }
-          ]
-        }
-      ],
-      "user_cellphones": [
-        {
-          "title": "Signed",
-          "list": [
-            {
-              "item": "+351 932 747 180",
-              "options": [
-                "call",
-                "sms"
-              ]
-            }
-          ]
-        }
-      ],
       "user_website": "www.signed.pt",
     },
     {
@@ -119,50 +31,6 @@
       "card_template": "#e2e8f0, #fff",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
-      "user_offices": [
-        {
-          "title": "Desenvolvimento",
-          "list": [
-            {
-              "item": "Frontend"
-            }
-          ]
-        }
-      ],
-      "user_emails": [
-        {
-          "title": "Saullo",
-          "list": [
-            {
-              "item": "saullo.souza@signed.pt"
-            }
-          ]
-        }
-      ],
-      "user_phones": [
-        {
-          "title": "Principal",
-          "list": [
-            {
-              "item": "+351 253 983 256"
-            }
-          ]
-        }
-      ],
-      "user_cellphones": [
-        {
-          "title": "Signed",
-          "list": [
-            {
-              "item": "+351 932 747 180",
-              "options": [
-                "call",
-                "sms"
-              ]
-            }
-          ]
-        }
-      ],
       "user_website": "www.signed.pt",
     },
     {
@@ -174,50 +42,6 @@
       "card_template": "#e2e8f0, #fff",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
-      "user_offices": [
-        {
-          "title": "Desenvolvimento",
-          "list": [
-            {
-              "item": "Frontend"
-            }
-          ]
-        }
-      ],
-      "user_emails": [
-        {
-          "title": "Saullo",
-          "list": [
-            {
-              "item": "saullo.souza@signed.pt"
-            }
-          ]
-        }
-      ],
-      "user_phones": [
-        {
-          "title": "Principal",
-          "list": [
-            {
-              "item": "+351 253 983 256"
-            }
-          ]
-        }
-      ],
-      "user_cellphones": [
-        {
-          "title": "Signed",
-          "list": [
-            {
-              "item": "+351 932 747 180",
-              "options": [
-                "call",
-                "sms"
-              ]
-            }
-          ]
-        }
-      ],
       "user_website": "www.signed.pt",
     }
   ],
