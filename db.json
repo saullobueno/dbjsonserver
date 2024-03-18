@@ -6,7 +6,7 @@
       "card_tags": [
         "Institucional"
       ],
-      "card_template": "#e2e8f0, #fff",
+      "card_template": "#64748b, #9ca3af",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
       "user_offices": [
@@ -85,7 +85,51 @@
         }
       ],
       "user_website": "www.signed.pt",
-      "form_status": false
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
     },
     {
       "id": 2, 
@@ -93,7 +137,7 @@
       "card_tags": [
         "Institucional"
       ],
-      "card_template": "#e2e8f0, #fff",
+      "card_template": "#737373, #a8a29e",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
       "user_offices": [
@@ -172,7 +216,51 @@
         }
       ],
       "user_website": "www.signed.pt",
-      "form_status": false
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
     },
     {
       "id": 3, 
@@ -180,7 +268,7 @@
       "card_tags": [
         "Institucional"
       ],
-      "card_template": "#e2e8f0, #fff",
+      "card_template": "#ef4444, #fb923c",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
       "user_offices": [
@@ -259,7 +347,51 @@
         }
       ],
       "user_website": "www.signed.pt",
-      "form_status": false
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
     },
     {
       "id": 4, 
@@ -267,7 +399,7 @@
       "card_tags": [
         "Institucional"
       ],
-      "card_template": "#e2e8f0, #fff",
+      "card_template": "#f59e0b, #facc15",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
       "user_offices": [
@@ -346,7 +478,51 @@
         }
       ],
       "user_website": "www.signed.pt",
-      "form_status": false
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
     },
     {
       "id": 5, 
@@ -354,7 +530,7 @@
       "card_tags": [
         "Institucional"
       ],
-      "card_template": "#e2e8f0, #fff",
+      "card_template": "#84cc16, #4ade80",
       "user_name": "Saullo",
       "user_lastname": "Bueno de Souza",
       "user_offices": [
@@ -433,7 +609,1787 @@
         }
       ],
       "user_website": "www.signed.pt",
-      "form_status": false
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 6, 
+      "card_name": "Cartão Signed 6",
+      "card_tags": [
+        "Institucional"
+      ],
+      "card_template": "#06b6d4, #38bdf8",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 7, 
+      "card_name": "Cartão Signed 7",
+      "card_tags": [
+        "Institucional"
+      ],
+      "card_template": "#8b5cf6, #c084fc",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 8, 
+      "card_name": "Cartão Signed 8",
+      "card_tags": [
+        "Institucional"
+      ],
+      "card_template": "#f43f5e, #fda4af",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    }
+  ],
+  "signatures": [
+    {
+      "id": 1, 
+      "signature_name": "Assinatura Signed 1",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#64748b, #9ca3af",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 2, 
+      "signature_name": "Assinatura Signed 2",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#737373, #a8a29e",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 3, 
+      "signature_name": "Assinatura Signed 3",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#ef4444, #fb923c",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 4, 
+      "signature_name": "Assinatura Signed 4",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#f59e0b, #facc15",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 5, 
+      "signature_name": "Assinatura Signed 5",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#84cc16, #4ade80",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 6, 
+      "signature_name": "Assinatura Signed 6",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#06b6d4, #38bdf8",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 7, 
+      "signature_name": "Assinatura Signed 7",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#8b5cf6, #c084fc",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 8, 
+      "signature_name": "Assinatura Signed 8",
+      "signature_tags": [
+        "Institucional"
+      ],
+      "signature_template": "#f43f5e, #fda4af",
+      "user_name": "Saullo",
+      "user_lastname": "Bueno de Souza",
+      "user_offices": [
+        {
+          "list": [
+            {
+              "item": "Frontend"
+            }
+          ],
+          "title": "Desenvolvimento"
+        }
+      ],
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "saullo.souza@signed.pt"
+            }
+          ],
+          "title": "Saullo"
+        },
+        {
+          "title": "Signed",
+          "list": [
+            {
+              "item": "work@signed.pt"
+            }
+          ]
+        }
+      ],
+      "user_phones": [
+        {
+          "title": "Principal",
+          "list": [
+            {
+              "item": "+351 253 983 256"
+            }
+          ]
+        }
+      ],
+      "user_cellphones": [
+        {
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms"
+              ],
+              "item": "+351 932 747 180"
+            }
+          ],
+          "title": "Signed"
+        },
+        {
+          "title": "Saullo",
+          "list": [
+            {
+              "options": [
+                "call",
+                "sms",
+                "whatsapp"
+              ],
+              "item": "+351 932 382 207"
+            }
+          ]
+        }
+      ],
+      "user_links": [
+        {
+          "list": [
+            {
+              "item": "instagram.com/signed"
+            }
+          ],
+          "title": "Instagram"
+        }
+      ],
+      "user_website": "www.signed.pt",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ],
+      "form_status": false,
+      "form_inputs": [
+        {
+          "input_name": "Nome",
+          "input_type": "text",
+          "input_required": true
+        },
+        {
+          "input_name": "Telefone",
+          "input_type": "tel",
+          "input_required": true
+        },
+        {
+          "input_name": "Email",
+          "input_type": "email"
+        },
+        {
+          "input_name": "Mensagem",
+          "input_type": "textarea"
+        }
+      ]
+    }
+  ],
+  "brands": [
+    { 
+      "id": "1",
+      "brand_status": "active",
+      "brand_name": "Nome da Marca1",
+      "brand_website": "www.teste1.com",
+      "brand_registration_business": "Área de negócio 1",
+      "brand_registration_name": "Desigação social 1",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@teste1.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ]
+    },
+    { 
+      "id": "2",
+      "brand_status": "active",
+      "brand_name": "Nome da Marca2",
+      "brand_website": "www.teste2.com",
+      "brand_registration_business": "Área de negócio 2",
+      "brand_registration_name": "Desigação social 2",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste2@teste2.pt"
+            }
+          ],
+          "title": "Email principal"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 200 000 000"
+            }
+          ],
+          "title": "Telefone principal 2"
+        }
+      ]
+    },
+    { 
+      "id": "3",
+      "brand_status": "pending",
+      "brand_name": "Nome da Marca 3",
+      "brand_website": "www.teste3.com",
+      "brand_registration_business": "Área de negócio 3",
+      "brand_registration_name": "Desigação social 3",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste3@teste3.pt"
+            }
+          ],
+          "title": "Email principal 3"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 300 000 000"
+            }
+          ],
+          "title": "Telefone principal 3"
+        }
+      ]
+    },
+    { 
+      "id": "4",
+      "brand_status": "inactive",
+      "brand_name": "Nome da Marca 4",
+      "brand_website": "www.teste4.com",
+      "brand_registration_business": "Área de negócio 4",
+      "brand_registration_name": "Desigação social 4",
+      "brand_emails": [
+        {
+          "list": [
+            {
+              "item": "teste4@teste4.pt"
+            }
+          ],
+          "title": "Email principal 4"
+        }
+      ],
+      "brand_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 400 000 000"
+            }
+          ],
+          "title": "Telefone principal 4"
+        }
+      ]
+    }
+  ],
+  "users": [
+    { 
+      "id": "1",
+      "user_status": "active",
+      "user_name": "Fausto Torres",
+      "user_profile": "Administrador",
+      "user_brands": ["Signed", "GoldEnergy", "Stylus"],
+      "user_last_login": "10 dez 2023",
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "teste1@signed.pt"
+            }
+          ],
+          "title": "Email principal 1"
+        }
+      ],
+      "user_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 100 000 000"
+            }
+          ],
+          "title": "Telefone principal 1"
+        }
+      ]
+    },
+    { 
+      "id": "2",
+      "user_status": "active",
+      "user_name": "Henrique Torres",
+      "user_profile": "Gestor",
+      "user_brands": ["Signed", "GoldEnergy", "Stylus"],
+      "user_last_login": "20 dez 2023",
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "teste2@signed.pt"
+            }
+          ],
+          "title": "Email principal"
+        }
+      ],
+      "user_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 200 000 000"
+            }
+          ],
+          "title": "Telefone principal 2"
+        }
+      ]
+    },
+    { 
+      "id": "3",
+      "user_status": "pending",
+      "user_name": "Ricardo Passos",
+      "user_profile": "Utilizador",
+      "user_brands": ["Signed", "GoldEnergy", "Stylus"],
+      "user_last_login": "30 dez 2023",
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "teste3@teste3.pt"
+            }
+          ],
+          "title": "Email principal 3"
+        }
+      ],
+      "user_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 300 000 000"
+            }
+          ],
+          "title": "Telefone principal 3"
+        }
+      ]
+    },
+    { 
+      "id": "4",
+      "user_status": "active",
+      "user_name": "Patrick Pereira",
+      "user_profile": "Utilizador",
+      "user_brands": ["Signed", "GoldEnergy", "Stylus"],
+      "user_last_login": "05 dez 2023",
+      "user_emails": [
+        {
+          "list": [
+            {
+              "item": "teste4@teste4.pt"
+            }
+          ],
+          "title": "Email principal 4"
+        }
+      ],
+      "user_phones": [
+        {
+          "list": [
+            {
+              "item": "+351 400 000 000"
+            }
+          ],
+          "title": "Telefone principal 4"
+        }
+      ]
+    }
+  ],
+  "leads": [
+    { 
+      "id": "1",
+      "name": "Fausto Torres",
+      "email": "work@signed.pt",
+      "company": "Signed",
+      "phone": "+351 900 000 000",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,      molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum      numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium      optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis      obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam      nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,      tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,      quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos       sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. ",
+      "created_at": "10 dez 2023"
+    },
+    { 
+      "id": "2",
+      "name": "Henrique Torres",
+      "email": "work@signed.pt",
+      "company": "Signed",
+      "phone": "+351 900 000 000",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,      molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum      numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium      optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis      obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam      nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,      tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,      quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos       sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. ",
+      "created_at": "10 dez 2023"
+    },
+    { 
+      "id": "3",
+      "name": "Ricardo Passos",
+      "email": "work@signed.pt",
+      "company": "Signed",
+      "phone": "+351 900 000 000",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,      molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum      numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium      optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis      obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam      nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,      tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,      quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos       sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. ",
+      "created_at": "10 dez 2023"
+    },
+    { 
+      "id": "4",
+      "name": "Saullo Bueno",
+      "email": "work@signed.pt",
+      "company": "Signed",
+      "phone": "+351 900 000 000",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,      molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum      numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium      optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis      obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam      nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,      tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,      quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos       sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. ",
+      "created_at": "10 dez 2023"
+    },
+    { 
+      "id": "5",
+      "name": "Patrick Pereira",
+      "email": "work@signed.pt",
+      "company": "Signed",
+      "phone": "+351 900 000 000",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,      molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum      numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium      optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis      obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam      nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,      tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,      quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos       sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. ",
+      "created_at": "10 dez 2023"
+    },
+    { 
+      "id": "6",
+      "name": "Ricardo Torres",
+      "email": "work@signed.pt",
+      "company": "Signed",
+      "phone": "+351 900 000 000",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,      molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum      numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium      optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis      obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam      nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,      tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,      quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos       sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. ",
+      "created_at": "10 dez 2023"
+    },
+    { 
+      "id": "7",
+      "name": "Sergio Vale",
+      "email": "work@signed.pt",
+      "company": "Signed",
+      "phone": "+351 900 000 000",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,      molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum      numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium      optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis      obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam      nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,      tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,      quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos       sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. ",
+      "created_at": "10 dez 2023"
     }
   ],
   "posts": [
